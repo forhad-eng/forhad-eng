@@ -2,7 +2,7 @@
     Hi there <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> It's me Forhad
 </h3>
 
-<p dir="auto" align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b429ded912e75f74824ad6a4addf5349ff3b622990bae304869934096b450dd0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d57656c636f6d652b746f2b6d792b70726f66696c653b536b696c6c65642b696e2b48544d4c352c435353332c426f6f7473747261703b416c736f2b5461696c77696e642c536173732c4a532c52656163743b416e642b5068702c4d7953716c2c4769743b416c776179732b6c6561726e696e672b6e65772b7468696e677326666f6e743d466972612b436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d663735633765267643656e7465723d747275652673697a653d3233"><img src="https://camo.githubusercontent.com/b429ded912e75f74824ad6a4addf5349ff3b622990bae304869934096b450dd0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d57656c636f6d652b746f2b6d792b70726f66696c653b536b696c6c65642b696e2b48544d4c352c435353332c426f6f7473747261703b416c736f2b5461696c77696e642c536173732c4a532c52656163743b416e642b5068702c4d7953716c2c4769743b416c776179732b6c6561726e696e672b6e65772b7468696e677326666f6e743d466972612b436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d663735633765267643656e7465723d747275652673697a653d3233" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Skilled+in+HTML,CSS,CSS Frameworks;Also+JavaScript,React,Express,MongoDB;Besides+Php,MySql,Git;Always+learning+new+things&amp;font=Fira+Code&amp;width=440&amp;height=45&amp;color=f75c7e&amp;vCenter=true&amp;size=22" style="max-width: 100%;"></a></p>
+<p dir="auto" align="center"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+profile;Skilled+in+HTML%2CCSS+%26+Frameworks;Also+JavaScript%2CReact%2CExpress.js;Besides+MongoDB%2CPhp%2CMySql+%26+Git;Always+learning+new+things&font=Fira+Code&width=440&height=45&color=f75c7e&vCenter=true&size=22" style="max-width: 100%;"></a></p>
 
 <img src="https://komarev.com/ghpvc/?username=forhad-eng&label=Profile%20views&color=0e75b6&style=flat" alt="forhad-eng" />
 
@@ -15,13 +15,13 @@
 
 ### Connect with me:
 
-[![website](./img/facebook.svg)](https://facebook.com/forhadu2)
+[![website](https://i.ibb.co/SwbctJZ/facebook.png)](https://facebook.com/forhadu2)
 &nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://instagram.com/forhad_63)
+[![website](https://i.ibb.co/rmSQnzy/instagram.png)](https://instagram.com/forhad_63)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com/in/forhadu)
+[![website](https://i.ibb.co/WzzchgT/linkedin.png)](https://linkedin.com/in/forhadu)
 &nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCIHZMGQKQkl4qQIqxM70blw)
+[![website](https://i.ibb.co/rtmf95X/youtube.png)](https://www.youtube.com/channel/UCIHZMGQKQkl4qQIqxM70blw)
 
 ### Languages and Tools:
 
